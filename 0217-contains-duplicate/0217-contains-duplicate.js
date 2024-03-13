@@ -15,6 +15,7 @@
 //     return false
 // };
 
+// Optimized solution
 var containsDuplicate = function(nums) {
     let numSet = new Set()
     
